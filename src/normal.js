@@ -1,5 +1,9 @@
 /* global console */
-
+/*
+ Based on example from: http://stackoverflow.com/questions/25582882/javascript-math-random-normal-distribution-gaussian-bell-curve
+ */
+*/
+ */
 export
 default class Normal {
   /**
