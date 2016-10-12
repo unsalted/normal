@@ -44,9 +44,9 @@ console.log(normal.values(5))
 
 ## NPM commands
 
-npm run build
-npm run lint
-npm run test
+- `npm run build`
+- `npm run lint`
+- `npm run test`
 
 ## License
 
