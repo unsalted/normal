@@ -42,15 +42,11 @@ console.log(normal.values(5))
 
 ```
 
-## NPM Test command
-
-npm run test
-
-## Build
+## NPM commands
 
 npm run build
-
-### NPM build command
+npm run lint
+npm run test
 
 ## License
 
