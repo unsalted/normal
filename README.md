@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install github.com/unsalted/normal --save
+$ npm install https://github.com/unsalted/normal.git --save
 ```
 
 ## How to use
